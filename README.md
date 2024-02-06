@@ -4,7 +4,7 @@
   CompTIA A+ core 2 (220-1102) <br>
   <a href = "https://www.freecodecamp.org/certification/Kirandeep/responsive-web-design"> Responsive Web Design </a>  
 <h2> Projects </h2>
-<a href ="https://github.com/KiranLearner/server"> setup microsoft server and msexchange server </a> 
+<h2> <a href ="https://github.com/KiranLearner/server"> Setup Microsoft Server and MSExchange Server </a> </h2>
 
 
 
