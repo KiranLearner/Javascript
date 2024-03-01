@@ -1,3 +1,5 @@
+// Jonas schmedtmann course from udemy challenge 2
+
 let massMark =78;
 let heightMark = 1.69;
 let massJohn = 92;
