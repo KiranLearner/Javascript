@@ -1,4 +1,4 @@
-// jonas schmidtman course from Udemy
+// jonas schmedtmann course from Udemy
 // Challenge 3 
 
 let scoreDol = [96+108+89];
