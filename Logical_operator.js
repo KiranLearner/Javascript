@@ -1,5 +1,5 @@
 // jonas schmedtmann course from Udemy
-// Challenge 3 
+// Challenge 3 if else statement
 
 let scoreDol = [96+108+89];
 let scoreKo =[88+91+110];
